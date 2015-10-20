@@ -1,4 +1,4 @@
-## Cheat Sheet (stuff)
+## Cheat Sheet
 
 Whenever you're confused about git, come read this cheat sheet. Remember that all git commands can be run with the `--help` option. For example:
 
@@ -36,6 +36,6 @@ Whenever you're confused about git, come read this cheat sheet. Remember that al
 
 `$ git checkout <branch name>` - __Fill Me Out__
 
-#### Merging
+#### Merging ####
 
 `$ git merge <branch name>` - __Fill Me Out__
